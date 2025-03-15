@@ -1,6 +1,8 @@
 
 Streamlit App: https://classifier-cohere.streamlit.app/
-Kaggle Dataset: https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?select=val.txt
+
+Kaggle Dataset: https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
+
 [![Cohere Text Classifier Application](img/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://studio.youtube.com/video/MIwWKXrRFWI))
 
 
