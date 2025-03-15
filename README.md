@@ -1,6 +1,8 @@
 
 Streamlit App: https://classifier-cohere.streamlit.app/
-YouTube Demo: https://github.com/AkanimohOD19A/classifier-cohere
+
+[![Cohere Text Classifier Application](img/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://studio.youtube.com/video/MIwWKXrRFWI))
+
 
 ## Cohere Text Classifier Application
 This is a Streamlit application that uses Cohere's AI classification model to analyze and categorize text. The app can process individual text inputs or batch process multiple texts from files.
