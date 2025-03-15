@@ -33,7 +33,7 @@ Click "Clear ↺" to reset the chat history and all accumulated results
 
 ## How to build this
 To replicate and use this Cohere Text Classifier application from GitHub, follow these steps:
-Train your own model - (Optional) 
+(Optional) Train your own model - https://docs.cohere.com/v2/docs/classify-starting-the-training
 
 Clone the repository
 ```bash
